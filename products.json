@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "Kabaddi Set – Front Side Sublimation",
+    "image": "https://i.postimg.cc/RZpvKdHN/1761575281041.png",
+    "price": 499,
+    "short": "Premium front-sublimated kabaddi jersey set for professional play.",
+    "description": "Made with breathable polyester, this front-sublimated kabaddi set offers comfort and durability during intense matches.",
+    "badge": "Best Seller"
+  },
+  {
+    "id": 2,
+    "title": "Kabaddi Set – Double Side Sublimation",
+    "image": "https://i.postimg.cc/PqLT4DWz/1761575097919.png",
+    "price": 699,
+    "short": "Double-sided sublimation for bold, long-lasting prints.",
+    "description": "Perfect for clubs and teams. Full double-side sublimation for vibrant, lasting colors.",
+    "badge": "Hot"
+  },
+  {
+    "id": 3,
+    "title": "Kabaddi Set – Full Sublimation",
+    "image": "https://i.postimg.cc/NMmYhwP5/1761574734517.png",
+    "price": 799,
+    "short": "Complete full-sublimation for a pro-grade look.",
+    "description": "Top-tier kabaddi set designed for all-day comfort with full-coverage sublimation.",
+    "badge": "Pro"
+  },
+  {
+    "id": 4,
+    "title": "Mars Plain T-Shirt",
+    "image": "https://i.postimg.cc/xTS816vC/IMG_20251027_WA0095.jpg",
+    "price": 299,
+    "short": "High-quality plain T-shirt with soft stretch fabric.",
+    "description": "Mars plain tees made with 100% cotton for comfort and perfect fit.",
+    "badge": "New"
+  },
+  {
+    "id": 5,
+    "title": "Plain T-Shirt (Classic)",
+    "image": "https://i.postimg.cc/tTvwhBnk/plain1.jpg",
+    "price": 249,
+    "short": "Minimalist plain T-shirt for everyday wear.",
+    "description": "Versatile, stylish, and made from breathable cotton for maximum comfort.",
+    "badge": "Classic"
+  },
+  {
+    "id": 6,
+    "title": "Single Side Printed T-Shirt",
+    "image": "https://i.postimg.cc/bwyvQdVV/1761579414204.png",
+    "price": 399,
+    "short": "Stylish front-printed T-shirt for custom designs.",
+    "description": "Perfect for events and branding — high-quality single-side print.",
+    "badge": "Trending"
+  },
+  {
+    "id": 7,
+    "title": "Double Side Printed T-Shirt",
+    "image": "https://i.postimg.cc/K808QFd2/1761578908195.png",
+    "price": 499,
+    "short": "Full double-side design for a complete look.",
+    "description": "Custom double-side prints for maximum visibility and impact.",
+    "badge": "Hot"
+  },
+  {
+    "id": 8,
+    "title": "Full Sublimation T-Shirt",
+    "image": "https://i.postimg.cc/L89szhQc/1761579043705.png",
+    "price": 599,
+    "short": "Full-body sublimation with vivid color technology.",
+    "description": "Advanced print process that embeds color directly into the fabric.",
+    "badge": "Premium"
+  },
+  {
+    "id": 9,
+    "title": "Mars Single Side Sublimation",
+    "image": "https://i.postimg.cc/ZY6Y261f/1761576320434.png",
+    "price": 449,
+    "short": "Mars design with single-side sublimation.",
+    "description": "Bold graphics and breathable comfort with Mars signature style.",
+    "badge": "Exclusive"
+  }
+]
